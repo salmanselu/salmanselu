@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi there 👋 <br>
- I'm <div style = "color:blue;"> Salman</div> </h1>
+ I'm <div style = "text-color:blue;"> Salman</div> </h1>
 
 <!--
 **salmanselu/salmanselu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
