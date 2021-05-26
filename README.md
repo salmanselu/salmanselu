@@ -1,5 +1,5 @@
-<body style="background-color: black;"><h1 style="color: blue;" align = "center"> Hi there 👋 <br>
- I'm  Salman </h1></body>
+<h1 style="color: blue;" align = "center"> Hi there 👋 <br><br>
+ I'm  Salman </h1>
 
 <!--
 **salmanselu/salmanselu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
