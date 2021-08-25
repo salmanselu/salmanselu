@@ -1,6 +1,7 @@
 <h1 style="color: blue;" align = "center"> Hi there 👋 <br><br>
  I'm  Salman </h1>
 
+[![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanselu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **salmanselu/salmanselu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
